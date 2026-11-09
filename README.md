@@ -1,4 +1,4 @@
-S# clarificadordeperrosygatosuwu
+# clarificadordeperrosygatosuwu
 Proyecto de programación, "Clasificador de perros y gatos".
 # Resumen
 Se realizo una dinamica desarrollando una aplicacion "identificador de perros y gatos" basado en el modelo tensorflow y keras. Este modelo se desarrollo utilizando el modelo de programacion python. 
