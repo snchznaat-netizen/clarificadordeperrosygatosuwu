@@ -11,3 +11,7 @@ Objetivo general: Clasificar imágenes en cuestión de segundos utilizando el mo
 2. Se crearan botones interactivos como los siguientes: "sube una imagen" y "aceptar"
 3. Para concluir, se le dará al usuario el resultado de la imagen que proporciono, ya sea un perro o un gato
 # Solución y evidencia
+Entrenamiento: https://colab.research.google.com/drive/1wP6_jbbEAFuLkdyrLJKqP3pc0tTvABhR
+El dataset utilizado fue adquirido de: https://huggingface.co/datasets/microsoft/cats_vs_dogs?library=datasets
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c604f01-de28-404a-a828-ae4a133b92b1" />
