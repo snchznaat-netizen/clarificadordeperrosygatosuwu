@@ -19,4 +19,6 @@ mar y nat juntas jsjsj
 Entrenamiento:
 Se instalaron las terminales y biblioteca necesarias
 <img width="1030" height="287" alt="image" src="https://github.com/user-attachments/assets/fb1aad7b-e97e-47bc-9149-37e9653e8686" />
+<img width="1030" height="287" alt="image" src="https://github.com/user-attachments/assets/cc9efb5b-b1ab-4326-b747-ea126c83739d" />
+
 
