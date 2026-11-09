@@ -19,6 +19,7 @@ mar y nat juntas jsjsj
 Entrenamiento:
 Se instalaron las terminales y biblioteca necesarias
 <img width="1030" height="287" alt="image" src="https://github.com/user-attachments/assets/fb1aad7b-e97e-47bc-9149-37e9653e8686" />
-<img width="1030" height="287" alt="image" src="https://github.com/user-attachments/assets/cc9efb5b-b1ab-4326-b747-ea126c83739d" />
 
+Se dividieron las imágenes de la biblioteca entre 80% de entrenamiento y 20% de prueba
+<img width="1287" height="240" alt="WhatsApp Image 2026-11-09 at 11 15 29 AM" src="https://github.com/user-attachments/assets/ae453ccf-8d1c-43d7-a6a0-f6281a6a4b14" />
 
