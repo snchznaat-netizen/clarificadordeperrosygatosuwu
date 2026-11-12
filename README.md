@@ -78,5 +78,16 @@ Verificamos que funcionara la pagina ya como tal
 
 <img width="1365" height="672" alt="WhatsApp Image 2026-11-11 at 11 26 03 PM (1)" src="https://github.com/user-attachments/assets/bf2fa8a1-c39f-4696-85c5-4a6ba971f7c5" />
 
+# Conclusiones generales:
+Finalmente consideramos que la creación de este clasificador puso a prueba nuestros conocimiento sobre lo aprendido en clase así como la capacidad de resolver las dudas por nuestra cuenta, ya que el problema que se nos presento sobre que teníamos que usar una versión de Python que admitiera tensorflow era algo que no esperábamos, pero pudimos resolver gracias a la practica que hemos tenido en clase. Sobre el programa al final comprendimos mejor el funcionamiento de el entrenamiento de modelos de reconocimiento asi como sus partes.
 
+# Conclusiones particulares:
+El código genero varios errores a la hora de precisar si es perro o gato, debido a que las imágenes de la biblioteca que se utilizó son imágenes muy claras en las cuales se puede distinguir entre un perro o gato, pero si se sube una imagen volteada de un perro o un gato con los ojos cerrados el modelo no predice con precisión si es uno u otro.
 
+Asimismo concluimos que al programa le es mas fácil distinguir perros, pensamos que es porque tienen razgos más marcados o porque el modelo tomo mas imagenes de perros para entrenarse.
+
+El conocer más herramientas como tensorflow nos ayudo a entender como cada una puede llegar a tener particularidades las cuales hay que conocer con anterioridad para evitar tiempo muerto intentando resolver un problema que se pudo evitar.
+
+# Reproducibilidad.
+Se puede utilizar mediante la pagina de Streamlit:
+https://clarificadordeperrosygatosuwu-ww2pfnlpqbyootncqovqjd.streamlit.app/
