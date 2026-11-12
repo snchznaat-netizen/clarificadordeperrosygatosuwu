@@ -63,5 +63,19 @@ Nos dimos cuenta que la version actual no permite la instalacion de Tensorflow p
 
 Una vez instalado streamlit, tensorflow y pillow se subio el codigo al repositorio junto con los requeriments.
 
+<img width="948" height="350" alt="WhatsApp Image 2026-11-11 at 11 21 14 PM" src="https://github.com/user-attachments/assets/ad545c2c-a9b0-408d-b092-dfaaeb2a2b0c" />
 
-Realizamos la pagina en streamlit y verificamos que funcionara
+
+Realizamos la pagina en streamlit
+
+<img width="1366" height="625" alt="WhatsApp Image 2026-11-11 at 11 23 52 PM" src="https://github.com/user-attachments/assets/658bc0eb-7882-4d50-b8fe-24fea6185edd" />
+
+<img width="1366" height="438" alt="WhatsApp Image 2026-11-11 at 11 24 55 PM" src="https://github.com/user-attachments/assets/d6c87ab3-dde2-4d59-b371-8a3fc278a279" />
+
+Verificamos que funcionara la pagina ya como tal
+
+<img width="853" height="520" alt="WhatsApp Image 2026-11-09 at 2 55 26 PM" src="https://github.com/user-attachments/assets/3a0dce4d-05da-43a9-9bcf-6f996e61b0cb" />
+
+<img width="852" height="536" alt="WhatsApp Image 2026-11-09 at 2 54 46 PM" src="https://github.com/user-attachments/assets/e80c4024-4313-4667-b6d3-06669be2241b" />
+
+
