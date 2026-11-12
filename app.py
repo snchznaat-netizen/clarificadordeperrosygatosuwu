@@ -22,7 +22,6 @@ def preprocess(image):
 def predict(model, image: Image.Image) -> np.ndarray:
     x = preprocess(np.asarray(image.convert("RGB")))
     x = tf.expand_dims(x, axis=0)
-    logits = model.predict(x, axis=0)
     logits = model.predict(x, verbose=0)[0]
     e = np.exp(logits - logits.max())
     return e / e.sum()
