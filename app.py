@@ -14,7 +14,7 @@ def load_model():
 
 
 def preprocess(image):
-    image = tf.keras.resize(image, (IMG_SIZE, IMG_SIZE))
+    image = tf.image.resize(image, (IMG_SIZE, IMG_SIZE))
     image = tf.cast(image, tf.float64) / 255.0
     return image
 
