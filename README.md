@@ -74,8 +74,9 @@ Realizamos la pagina en streamlit
 
 Verificamos que funcionara la pagina ya como tal
 
-<img width="853" height="520" alt="WhatsApp Image 2026-11-09 at 2 55 26 PM" src="https://github.com/user-attachments/assets/3a0dce4d-05da-43a9-9bcf-6f996e61b0cb" />
+<img width="1366" height="676" alt="WhatsApp Image 2026-11-11 at 11 39 27 PM (1)" src="https://github.com/user-attachments/assets/a1df350f-ab32-404a-ac9f-0d080f9e7624" />
 
-<img width="852" height="536" alt="WhatsApp Image 2026-11-09 at 2 54 46 PM" src="https://github.com/user-attachments/assets/e80c4024-4313-4667-b6d3-06669be2241b" />
+<img width="1365" height="672" alt="WhatsApp Image 2026-11-11 at 11 26 03 PM (1)" src="https://github.com/user-attachments/assets/bf2fa8a1-c39f-4696-85c5-4a6ba971f7c5" />
+
 
 
